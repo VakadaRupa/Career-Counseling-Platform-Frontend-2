@@ -1,0 +1,5 @@
+{
+  "name": "CareerPath AI",
+  "description": "A comprehensive AI-powered career guidance platform with expert counseling, job matching, and professional development resources.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
